@@ -452,3 +452,7 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+week02/Journal/test.csv
+week02/Journal/secondtest.csv
+week02/Journal/test.txt
+week02/Journal/journal.csv
